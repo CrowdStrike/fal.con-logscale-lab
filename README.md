@@ -21,4 +21,4 @@ The script  will generate randomized events with timestamps to backfill (past 7 
 The script is only for demo/lab purposes and should not be used for other use cases which rely on accurate information/events.
 
 
-If you are having issues running the script, submit it [here](https://docs.google.com/forms/d/e/1FAIpQLSe5ZqcsZGnodJtQ-MX-kbZe0zl_QEXo5y7C4qjlKI7tf-OHRQ/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSe5ZqcsZGnodJtQ-MX-kbZe0zl_QEXo5y7C4qjlKI7tf-OHRQ/viewform?usp=sharing)
+If you are having issues running the script, submit it [here](https://docs.google.com/forms/d/e/1FAIpQLSe5ZqcsZGnodJtQ-MX-kbZe0zl_QEXo5y7C4qjlKI7tf-OHRQ/viewform?usp=sharing)
