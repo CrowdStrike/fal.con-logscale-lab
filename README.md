@@ -19,3 +19,6 @@ Prior to running the "generate_logs.py" script, please replace the ingest token 
 The script  will generate randomized events with timestamps to backfill (past 7 days) and send those via a post request to the repository.
 
 The script is only for demo/lab purposes and should not be used for other use cases which rely on accurate information/events.
+
+
+If you are having issues running the script, submit it [here](https://forms.gle/7kHKhLzeSobfnoVS8)
